@@ -1,0 +1,12 @@
+matplotlib
+numpy
+pandas
+ijson
+simplejson
+dask[complete]
+distributed
+toolz
+cloudpickle
+bokeh
+jupyter
+jupyter_contrib_nbextensions
