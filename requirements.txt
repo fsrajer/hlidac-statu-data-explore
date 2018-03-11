@@ -11,3 +11,4 @@ bokeh
 jupyter
 jupyter_contrib_nbextensions
 pylzma
+graphviz
